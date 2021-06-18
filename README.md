@@ -1,2 +1,2 @@
 # thinFilmTransmission
-MATLAB code to evaluate transmission and phase shift of a plane wave passing through multiple thin films deposited on a substrate
+This MATLAB code uses the Fresnel equations and matrix method to calculate the transmissivity and phase shift through two thin film layers deposited on a substrate
